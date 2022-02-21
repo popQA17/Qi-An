@@ -1,0 +1,10 @@
+
+@media (min-width: 801px) {
+    .carousel .slide img {
+        max-height: 500px;  /* change this to whatever you want */
+        width: auto;
+    }
+    .carousel .slide{
+        width: 100%;
+    }
+}
