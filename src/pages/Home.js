@@ -228,11 +228,11 @@ function App() {
         <AccordionPanel pb={4} outline={'none'} border={'none'}>
         <Flex justifyContent={'center'}>
           <VStack>
-            <DisplayImg height={phone && '300px'} item={'Edusave Merit Awards'} desc={'Click to learn more.'}  src='photos\CDC\CDC2020.JPEG' href='/slideshow/cdc'/>
-            <DisplayImg height={phone && '300px'} item={'Edusave Awards'} desc={'Click to learn more.'} src='photos\Edusave\Edusave2021.JPEG' href='/slideshow/edusave'/>
+            <DisplayImg height={phone && '300px'} item={'Edusave Merit Awards'} desc={'Click to learn more.'}  src='photos\CDC\CDC2021.jpeg' href='/slideshow/cdc'/>
+            <DisplayImg height={phone && '300px'} item={'Edusave Awards'} desc={'Click to learn more.'} src='photos\Edusave\Edusave2021.jpeg' href='/slideshow/edusave'/>
             <DisplayImg height={phone && '300px'} item={'Good Progress Awards'} desc={'Click to learn more.'} src='photos\Good Progress Award\GoodProgress2019.jpeg' href='/slideshow/good-progress'/>
             <DisplayImg height={phone && '300px'} width={'700px'} item={'Coding / Robotics Awards'} desc={'Click to learn more.'} src='photos\Coding\CoSpaces2020.jpeg' href='/slideshow/coding'/>
-            <DisplayImg height={phone && '300px'} desc={'Click to learn more.'} item={'School Awards'} src='photos\School\CSI2021.JPEG' href='/slideshow/school'/>
+            <DisplayImg height={phone && '300px'} desc={'Click to learn more.'} item={'School Awards'} src='photos\School\CSI2021.jpeg' href='/slideshow/school'/>
             <DisplayImg height={phone && '300px'} width={'700px'} item={'Other awards'} desc={'Click to learn more.'} src='photos\Others\Mathlympics2021.jpeg' href='/slideshow/others' />
           </VStack>
         </Flex>
@@ -249,7 +249,7 @@ function App() {
         </h2>
         <AccordionPanel pb={4} outline={'none'} border={'none'}>
           <Flex justifyContent={'center'}>
-          <DisplayImg height={phone && '300px'} item={'Trophies'} desc={'Click to learn more.'} src='photos\Medals\Tesla2019.JPEG'/>
+          <DisplayImg height={phone && '300px'} item={'Trophies'} desc={'Click to learn more.'} src='photos\Medals\Tesla2019.jpeg'/>
           </Flex>
         </AccordionPanel>
       </AccordionItem>

@@ -23,24 +23,28 @@ const edusave = [
   ];
   const cdc = [
     {
+      url: '/photos/CDC/CDC2021.jpeg',
+    },
+    {
       url: '/photos/CDC/CDC2020.jpeg',
     },
     {
       url: '/photos/CDC/CDC2018.jpeg',
     },
     {
-      url: '/photos/CDC/CDC2017.jpg',
+      url: '/photos/CDC/CDC2017.jpeg',
     },
+
   ];
   const coding = [
     {
-      url: '/photos/coding/CoSpaces2020.jpeg',
+      url: '/photos/Coding/CoSpaces2020.jpeg',
     },
     {
-      url: '/photos/coding/CodersPassion2021.jpeg',
+      url: '/photos/Coding/CodersPassion2021.jpeg',
     },
     {
-      url: '/photos/coding/CodersPassion2020.jpeg',
+      url: '/photos/Coding/CodersPassion2020.jpeg',
     },
   ];
   const progress = [
@@ -55,16 +59,16 @@ const edusave = [
   ];
   const others = [
     {
-        url: '/photos/others/Mathlympics2021.jpeg',
+        url: '/photos/Others/Mathlympics2021.jpeg',
     },
     {
-      url: '/photos/others/FLS2021.jpeg',
+      url: '/photos/Others/FLS2021.jpeg',
     },
     {
-      url: '/photos/others/Music2019.jpeg',
+      url: '/photos/Others/Music2019.jpeg',
     },
     {
-      url: '/photos/others/Swimming2019.jpeg',
+      url: '/photos/Others/Swimming2019.jpeg',
     },
   ];
 const Slideshow = () => {
